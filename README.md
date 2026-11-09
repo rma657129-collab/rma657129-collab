@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rma657129-collab/rma657129-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/superhero-flight.gif" width="100%">
 
-Here are some ideas to get you started:
+# ⚡ RAHUL RAJESH ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ASPIRING SOFTWARE DEVELOPER
+
+*Building my future, one line of code at a time.*
+
+</div>
+
+---
+
+## 👨‍🚀 ABOUT ME
+
+Hi! I'm Rahul Rajesh.
+
+- 🌱 Learning programming from scratch.
+- 💻 Interested in software development.
+- 🚀 Aspiring Application Developer.
+- 🎯 My goal is to become a
+  Fachinformatiker für Anwendungsentwicklung.
+
+## 🛠️ MY LEARNING JOURNEY
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rma657129-collab&show_icons=true&theme=tokyonight" width="90%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rma657129-collab&layout=compact&theme=tokyonight">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 DREAM BIG. BUILD THE FUTURE.
+
+</div>
