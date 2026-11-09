@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/superhero-flight.gif" width="100%">
+<img src="superhero-flight.gif" width="100%">
 
 # ⚡ RAHUL RAJESH ⚡
 
