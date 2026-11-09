@@ -1,49 +1,17 @@
 <div align="center">
 
-<img src="superhero-flight.gif" width="100%">
+# ⚡ TECH ARSENAL ⚡
 
-# ⚡ RAHUL RAJESH ⚡
+### MY DEVELOPER LEARNING JOURNEY
 
-### ASPIRING SOFTWARE DEVELOPER
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 
-*Building my future, one line of code at a time.*
+### 🚀 CURRENTLY LEARNING
 
-</div>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
----
+<img src="https://img.shields.io/badge/Web_Development-Exploring-00D8FF?style=for-the-badge&logo=html5&logoColor=white" />
 
-## 👨‍🚀 ABOUT ME
-
-Hi! I'm Rahul Rajesh.
-
-- 🌱 Learning programming from scratch.
-- 💻 Interested in software development.
-- 🚀 Aspiring Application Developer.
-- 🎯 My goal is to become a
-  Fachinformatiker für Anwendungsentwicklung.
-
-## 🛠️ MY LEARNING JOURNEY
-
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rma657129-collab&show_icons=true&theme=tokyonight" width="90%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rma657129-collab&layout=compact&theme=tokyonight">
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 DREAM BIG. BUILD THE FUTURE.
+<img src="https://img.shields.io/badge/Git_&_GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
