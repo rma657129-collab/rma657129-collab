@@ -3,6 +3,7 @@
 # 🦸 M.RAHUL RAJESH
 
 ### THE JOURNEY OF A FUTURE DEVELOPER
+<img src="assets/superhero-flight.gif" width="100%" />
 
 <img src="assets/superhero-flight.gif" width="100%" />
 
