@@ -1,5 +1,13 @@
 <div align="center">
 
+# 🦸 M.RAHUL RAJESH
+
+### THE JOURNEY OF A FUTURE DEVELOPER
+
+<img src="assets/superhero-flight.gif" width="100%" />
+
+---
+
 # ⚡ TECH ARSENAL ⚡
 
 ### MY DEVELOPER LEARNING JOURNEY
